@@ -1,0 +1,9 @@
+body {
+	background-image: url("flower-background.jpg");
+	backgroun-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	color: #004455;
+	text-align: center;
+}
